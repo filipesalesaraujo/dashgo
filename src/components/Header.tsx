@@ -14,6 +14,7 @@ export default function Header() {
       mx="auto"
       mt="4"
       align="center"
+      px="6"
     >
       <Text fontSize="3xl" fontWeight="bold" letterSpacing="tight" w="64">
         dashgo
