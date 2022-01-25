@@ -12,7 +12,7 @@ import { NotificationsNav } from "./NotificationsNav";
 import { Profile } from "./Profile";
 import { SearchBox } from "./SearchBox";
 
-export default function Header() {
+export function Header() {
   const { onOpen } = useSidebarDrawer();
 
   const isWideVersion = useBreakpointValue({
