@@ -2,7 +2,6 @@ import {
   Flex,
   Icon,
   IconButton,
-  useBreakpoint,
   useBreakpointValue,
 } from "@chakra-ui/react";
 import { RiMenuLine } from "react-icons/ri";
